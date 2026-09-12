@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SpoilerGuard</string>
+    <string name="accessibility_service_description">Floute les contenus contenant tes mots-clés spoiler, dans toutes les applications.</string>
+</resources>
